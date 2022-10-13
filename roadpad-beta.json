@@ -1,5 +1,7 @@
 {
  "alphastatus": true,
  "betastatus": false,
- "endoflife: "10.15.2022"
+ "endoflifealpha": "10.15.2022",
+ "endoflifebeta": "10.15.2022"
+
 }
