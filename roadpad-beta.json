@@ -1,3 +1,5 @@
 {
- "betastatus": true
+ "alphastatus": true,
+ "betastatus": false,
+ "endoflife: "10.15.2022"
 }
