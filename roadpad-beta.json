@@ -1,7 +1,7 @@
 {
  "alphastatus": true,
  "betastatus": false,
- "version": 0.1,
+ "version": "0.1 ALPHA",
  "type": "important",
  "endoflifealpha": "10.15.2022",
  "endoflifebeta": "10.15.2022"
